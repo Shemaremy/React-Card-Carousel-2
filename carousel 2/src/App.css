@@ -86,18 +86,20 @@ h1 {
   cursor: grab;
   margin-top: 2%;
   border-radius: 10px;
+  align-content: center;
 }
 
 .card-2 {
   margin: 0 auto;
-  height: 350px;
+  height: 320px;
   width: 95%;
   background-color: rgb(146, 133, 182);
-  margin-top: 3%;
   border-radius: 7px;
   display: flex;
   justify-content: center;
   align-items: center;
+  filter: blur(1.5px);
+  transition: background-color 0.7s ease-in-out, height 0.4s ease-in-out, width 0.4s ease-in-out;
 }
 
 
@@ -125,17 +127,17 @@ h1 {
   left: -45px !important;
 }
 
-.slick-arrow{
-  color: black !important;
+
+
+
+
+
+
+
+/* Add this CSS to your App.css file */
+
+.slick-current .card-2 {
+  background-color: red; 
+  background-color: rgb(121, 101, 175);
+  filter: blur(0px);
 }
-
-button {
-  color: black !important;
-}
-
-
-
-
-
-
-
