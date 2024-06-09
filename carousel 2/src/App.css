@@ -1,0 +1,141 @@
+body {
+  background-color: aliceblue;
+  height: 300vh;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------*/
+
+.section-one {
+  background-color: rgb(112, 155, 99);
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 162, 255);
+}
+
+.slider-container {
+  background-color: rgb(52, 90, 52);
+  width: 80%;
+  height: 400px;
+  margin: 0 auto;
+  cursor: grab;
+}
+
+
+.card {
+  margin: 0 auto;
+  height: 400px;
+  width: 90%;
+  background-color: rgba(199, 130, 80, 0.589);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+/**-------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+.section-two {
+  background-color: rgb(99, 149, 155);
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: yellow;
+}
+
+
+
+.slider-container-2 {
+  background-color: rgb(119, 128, 0);
+  width: 80%;
+  height: 70%;
+  margin: 0 auto;
+  cursor: grab;
+  margin-top: 2%;
+  border-radius: 10px;
+}
+
+.card-2 {
+  margin: 0 auto;
+  height: 350px;
+  width: 95%;
+  background-color: rgb(146, 133, 182);
+  margin-top: 3%;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+/* App.css */
+.slick-dots li button {
+  color: red; /* Change color to your desired color */
+  background-color: red;
+}
+
+.slick-prev, .slick-next {
+  color: black !important;
+}
+
+
+.slick-next {
+  right: -45px !important;
+}
+
+.slick-prev {
+  left: -45px !important;
+}
+
+.slick-arrow{
+  color: black !important;
+}
+
+button {
+  color: black !important;
+}
+
+
+
+
+
+
+
