@@ -25,13 +25,13 @@ Probably, I prefer this one.
 
 ## FIRST SECTION :
 -----------------
-![SECTION 1](https://example.com/image.jpg)
+![SECTION 1](https://raw.githubusercontent.com/Shemaremy/React-Card-Carousel-2/main/carousel%202/public/screenshots/Section%20one.png)
 
 
 
 ## SECOND SECTION :
 -----------------
 
-![SECTION 2](https://example.com/image.jpg)
+![SECTION 2](https://raw.githubusercontent.com/Shemaremy/React-Card-Carousel-2/main/carousel%202/public/screenshots/image.png)
 
 
