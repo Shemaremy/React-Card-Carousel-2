@@ -25,9 +25,13 @@ Probably, I prefer this one.
 
 ## FIRST SECTION :
 -----------------
+![SECTION 1](https://example.com/image.jpg)
 
 
 
 ## SECOND SECTION :
 -----------------
+
+![SECTION 2](https://example.com/image.jpg)
+
 
