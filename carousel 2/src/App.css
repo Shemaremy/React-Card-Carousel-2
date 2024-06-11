@@ -103,14 +103,6 @@ h1 {
 
 
 
-
-
-/* App.css */
-.slick-dots li button {
-  color: red; /* Change color to your desired color */
-  background-color: red;
-}
-
 .slick-prev, .slick-next {
   color: black !important;
 }
@@ -134,7 +126,58 @@ h1 {
 /* Add this CSS to your App.css file */
 
 .slick-current .card-2 {
-  background-color: red; 
   background-color: rgb(121, 101, 175);
   filter: blur(0px);
 }
+
+
+
+
+
+
+
+
+/**-------------------------------------------------------------------------------------------------------------*/
+
+
+
+.section-three {
+  background-color: rgb(99, 155, 107);
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: yellow;
+}
+
+
+
+.slider-container-3 {
+  background-color: rgb(5, 73, 58);
+  width: 80%;
+  height: 70%;
+  margin: 0 auto;
+  cursor: grab;
+  margin-top: 2%;
+  border-radius: 10px;
+  align-content: center;
+}
+
+.card-3 {
+  margin: 0 auto;
+  height: 320px;
+  width: 95%;
+  background-color: rgb(182, 167, 133);
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.7s ease-in-out, height 0.4s ease-in-out, width 0.4s ease-in-out;
+}
+
+
