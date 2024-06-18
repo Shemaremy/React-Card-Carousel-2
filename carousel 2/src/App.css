@@ -1,6 +1,6 @@
 body {
   background-color: aliceblue;
-  height: 300vh;
+  height: 400vh;
 }
 
 h1 {
@@ -91,7 +91,7 @@ h1 {
 
 .Trend-2 {
   background-color: red;
-  height: 200px;
+  height: 350px;
   width: 100%;
 }
 
@@ -213,6 +213,15 @@ h1 {
 
 
 
+
+
+
+
+
+
+
+
+
 /**-------------------------------------------------------------------------------------------------------------*/
 
 
@@ -226,8 +235,17 @@ h1 {
 
 
 
+
+
+
+
+
+
+
+
+
 .section-four {
-  background-color: rgb(99, 155, 107);
+  background-color: rgba(121, 99, 155, 0.486);
   height: 85vh;
   display: flex;
   flex-direction: column;
